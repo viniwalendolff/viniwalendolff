@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viniwalendolff
 - 👀 aprender as lingagens
-- 🌱 estou aprendendo a programar recentemente a lingagem javascript e scraych
+- 🌱 estou aprendendo a programar recentemente tudo sobre programaçao
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
